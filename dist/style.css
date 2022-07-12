@@ -40,4 +40,8 @@ body .container button {
 }
 body .container h2 {
   margin-block: 1em;
+}
+body .container h2:last-of-type {
+  color: darkcyan;
+  font-size: 2rem;
 }/*# sourceMappingURL=style.css.map */

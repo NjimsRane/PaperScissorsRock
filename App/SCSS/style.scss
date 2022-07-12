@@ -41,6 +41,11 @@ body {
     }
     h2 {
       margin-block: 1em;
+
+      &:last-of-type {
+        color: darkcyan;
+        font-size: 2rem;
+      }
     }
   }
 }
